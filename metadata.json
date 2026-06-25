@@ -1,0 +1,6 @@
+{
+  "name": "AI Resume Analyzer",
+  "description": "Analyze resumes (PDF or DOCX) to extract key information, calculate ATS scores, check grammar, list missing skills, and receive improvement recommendations using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
